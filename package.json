@@ -1,0 +1,27 @@
+{
+  "name": "cosmo-id",
+  "version": "0.0.1",
+  "description": "Cosmopolitan Identifiers",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/practal/cosmo-id.git"
+  },
+  "keywords": [
+    "Practal",
+    "Identifier",
+    "Unicode",
+    "Latin",
+    "Greek",
+    "Cyrillic"
+  ],
+  "author": "Steven Obua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/practal/cosmo-id/issues"
+  },
+  "homepage": "https://github.com/practal/cosmo-id#readme"
+}
